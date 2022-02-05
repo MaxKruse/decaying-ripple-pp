@@ -6,6 +6,8 @@ This project attempts to use a combination of ppv1 and ppv2 to adjust performanc
 
 Clone the repository into your project directory.
 
+Rename the `src/config/config.example.js` file to `src/config/config.js` and edit the OAuth credentials.
+
 Run the application using
 
     node src/index.js
